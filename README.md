@@ -95,8 +95,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
-* [![C++][C++.com]]
-* [![C[C.com]]
+* ![C++][C++.com]
+* [![C.com]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -244,8 +244,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [issues-shield]: https://img.shields.io/github/issues/Ricardoxt1/plant-pot
 [issues-url]: https://github.com/Ricardoxt1/plant-pot/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url-dani]: https://linkedin.com/in/othneildrew
-[linkedin-url-ricardo]: https://linkedin.com/in/othneildrew
+[linkedin-url-dani]: https://www.linkedin.com/in/danielliborges/
+[linkedin-url-ricardo]: https://www.linkedin.com/in/ricardo-alexandre-ferreira-35702415a/
 [product-screenshot]: images/screenshot.png
 [image-logo]: https://github.com/user-attachments/assets/444f5f0a-ddd5-4969-ac7c-f6e2b2e3f4ef
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
