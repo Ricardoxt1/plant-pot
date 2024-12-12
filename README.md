@@ -96,7 +96,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 * ![C++][C++.com]
-* [![C.com]
+* [C.com]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
