@@ -1,5 +1,5 @@
 # 🌱 PlantPot Tamagotchi - Cultivando conexões
-Sistema de monitoramento hídrico e irrigação automatizada
+Sistema de monitoramento e controle hídrico automatizado
 
 ## 📋 Descrição
 O PlantPot Tamagotchi é um vaso inteligente que monitora a umidade do solo e condições ambientais, \
