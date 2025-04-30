@@ -91,7 +91,9 @@ Desenvolvido por Danielli dos Santos Borges e Ricardo Alexandre Ferreira, sob or
 
 ## 📞 Contato
 
-[Seu Nome] - [@SeuTwitter](https://twitter.com/SeuUsuario) - seu-email@exemplo.com
+Danielli - [www.linkedin.com/in/danielliborges](LinkedIn) - danielli.borges@fatec.sp.gov.br 
+<br/>
+Ricardo - [www.linkedin.com/in/ricardo-alexandre-ferreira-35702415a](LinkedIn) - ricardo.ferreira9@fatec.sp.gov.br
 
 Link do Projeto: [https://github.com/Ricardoxt1/plant-pot](https://github.com/Ricardoxt1/plant-pot)
 
