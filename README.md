@@ -104,8 +104,6 @@ Link do Projeto: [https://github.com/Ricardoxt1/plant-pot](https://github.com/Ri
 [forks-url]: https://github.com/Ricardoxt1/plant-pot/network/members
 [stars-shield]: https://img.shields.io/github/stars/Ricardoxt1/plant-pot.svg?style=for-the-badge
 [stars-url]: https://github.com/Ricardoxt1/plant-pot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Ricardoxt1/plant-pot
-[issues-url]: https://github.com/Ricardoxt1/plant-pot/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url-dani]: https://www.linkedin.com/in/danielliborges/
 [linkedin-url-ricardo]: https://www.linkedin.com/in/ricardo-alexandre-ferreira-35702415a/
