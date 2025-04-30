@@ -13,7 +13,7 @@
     <img src="logo-plant-pot.png" alt="Logo" width="160" height="160">
   </a>
 
-  <h3 align="center">🌱 PlantPot Tamagotchi - Cultivando conexões</h3>
+  <h3 align="center">🌱 Plant Pot - Cultivando conexões</h3>
 
   <p align="center">
     Sistema de monitoramento e controle hídrico automatizado
