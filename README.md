@@ -35,7 +35,6 @@
     <li><a href="#funcionalidades-principais">Funcionalidades Principais</a></li>
     <li><a href="#como-usar">Como Usar</a></li>
     <li><a href="#solução-de-problemas">Solução de Problemas</a></li>
-    <li><a href="#licença">Licença</a></li>
     <li><a href="#créditos">Créditos</a></li>
     <li><a href="#contact">Contato</a></li>
   </ol>
