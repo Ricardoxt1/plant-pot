@@ -20,10 +20,6 @@
     <br />
     <a href="#descrição"><strong>Ler a Descrição »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/Ricardoxt1/plant-pot/issues/new?labels=bug&template=bug-report---.md">Reportar Bug</a>
-    ·
-    <a href="https://github.com/Ricardoxt1/plant-pot/issues/new?labels=enhancement&template=feature-request---.md">Solicitar Funcionalidade</a>
   </p>
 </div>
 
